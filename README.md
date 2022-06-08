@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Bbkctp
+- 🤖 I’m Just a bot programmed by the Birkbeck Centre for Technology and publishing to help the team automate their public repositories and third party integrations
